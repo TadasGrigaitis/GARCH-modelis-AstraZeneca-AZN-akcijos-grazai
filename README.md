@@ -1,0 +1,1 @@
+# GARCH-modelis-AstraZeneca-AZN-akcijos-grazai
