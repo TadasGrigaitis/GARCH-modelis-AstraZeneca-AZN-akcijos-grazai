@@ -2,7 +2,7 @@
 
 Šio projekto tikslas – rasti tinkamiausią GARCH modelį AstraZeneca akcijos grąžai, pasitelkiant R programinę įrangą. Jis gimė iš asmeninio smalsumo pritaikyti universitete įgytas žinias realiame finansų rinkų modeliavime.
 
-Dokumente "Aprašymas" galite rasti proceso eigą, komentarus apie savo mintis, sutiktus sunkumus ir panaudoto kodo nuotraukas.
+Dokumente "aprašymas" galite rasti proceso eigą, komentarus apie savo mintis, sutiktus sunkumus ir panaudoto kodo nuotraukas.
 
 **Projekto apžvalga**
 
