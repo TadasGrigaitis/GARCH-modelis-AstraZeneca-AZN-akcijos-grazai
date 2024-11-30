@@ -1,13 +1,13 @@
 # GARCH modelis AstraZeneca (AZN) akcijos grąžai
 
-Šio projekto tikslas – rasti tinkamiausią GARCH modelį AstraZeneca akcijos grąžai, pasitelkiant R programinę įrangą. Jis gimė iš asmeninio smalsumo pritaikyti universitete įgytas žinias realiame finansų rinkų modeliavime. Modelio sudarymui buvo nauduoti bendrovės akcijos duomenys nuo 2014-01-01 iki 2024-10-23. Juos galite rasti "astrazeneca duomenys.csv" dokumente(trūksta datos stulpelio).
+Šio projekto tikslas – rasti tinkamiausią GARCH modelį AstraZeneca akcijos grąžai, pasitelkiant R programinę įrangą. Jis gimė iš asmeninio smalsumo pritaikyti universitete įgytas žinias realiame finansų rinkų modeliavime.
 
 Dokumente "Aprašymas" galite rasti proceso eigą, komentarus apie savo mintis, sutiktus sunkumus ir panaudoto kodo nuotraukas.
 
 **Projekto apžvalga**
 
 * Įmonė: AstraZeneca – pasaulinė farmacijos lyderė, kurios 2023 m. pajamos siekė 45,8 mlrd. JAV dolerių.
-* Duomenys: 10 metų AstraZeneca akcijų kainų ir grąžos duomenys, gauti naudojant Quantmod R paketą.
+* Duomenys: 10 metų (2014-01-01 iki 2024-10-23) AstraZeneca akcijų kainų ir grąžos duomenys, gauti naudojant Quantmod R paketą. Juos galite rasti "astrazeneca duomenys.csv" dokumente (trūksta datos stulpelio).
 * Metodologija: Naudojami GARCH modeliai, apimantys įvairias jų formas, pvz., GARCH-M, TGARCH, EGARCH, APARCH.
 * Kriterijai: Modelių tinkamumas vertinamas pagal Akaike informacinį kriterijų (AIC).
 
