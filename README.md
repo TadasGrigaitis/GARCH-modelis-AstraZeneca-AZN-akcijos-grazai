@@ -6,10 +6,10 @@ Dokumente "Aprašymas" galite rasti proceso eigą, komentarus apie savo mintis, 
 
 **Projekto apžvalga**
 
-* Įmonė: AstraZeneca – pasaulinė farmacijos lyderė, kurios 2023 m. pajamos siekė 45,8 mlrd. JAV dolerių.
-* Duomenys: 10 metų (2014-01-01 iki 2024-10-23) AstraZeneca akcijų kainų ir grąžos duomenys, gauti naudojant Quantmod R paketą. Juos galite rasti "astrazeneca duomenys.csv" dokumente (trūksta datos stulpelio).
-* Metodologija: Naudojami GARCH modeliai, apimantys įvairias jų formas, pvz., GARCH-M, TGARCH, EGARCH, APARCH.
-* Kriterijai: Modelių tinkamumas vertinamas pagal Akaike informacinį kriterijų (AIC).
+* _Įmonė_: AstraZeneca – pasaulinė farmacijos lyderė, kurios 2023 m. pajamos siekė 45,8 mlrd. JAV dolerių.
+* _Duomenys_: 10 metų (2014-01-01 iki 2024-10-23) AstraZeneca akcijų kainų ir grąžos duomenys, gauti naudojant Quantmod R paketą. Juos galite rasti "astrazeneca duomenys.csv" dokumente (trūksta datos stulpelio).
+* _Metodologija_: Naudojami GARCH modeliai, apimantys įvairias jų formas, pvz., GARCH-M, TGARCH, EGARCH, APARCH.
+* _Kriterijai_: Modelių tinkamumas vertinamas pagal Akaike informacinį kriterijų (AIC).
 
 **Svarbiausi Žingsniai**
 1. Duomenų analizė:
